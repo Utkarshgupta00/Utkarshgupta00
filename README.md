@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Gupta</h1>
-<img src="https://media.licdn.com/dms/image/D5616AQEZJtpW_QQz1w/profile-displaybackgroundimage-shrink_350_1400/0/1685766288174?e=1691625600&v=beta&t=7vpur33Zkt_akvpB76OD9ww3lKAGJagO2edghQqj4bk"/>
+<div align="center" justify-content="center">
+  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
+</div>
+
 
 - 🔭 I’m currently working on **AutoImg**
 
@@ -10,6 +13,12 @@
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **utkarshg494@gmail.com**
+  
+
+   
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
